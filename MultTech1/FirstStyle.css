@@ -1,0 +1,47 @@
+﻿body {
+    background-image: url("back.jpg");
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+
+.heading1 {
+    font-size: 200%;
+    color: #eadd46;
+}
+
+#form1 {
+    width: 522px;
+    height: 449px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #596a71;
+    color: #eadd46;
+    
+    top: -6px;
+    left: 76px;
+}
+
+#main {
+    height: 461px;
+    text-align: center;
+
+    
+}
+
+#Button1{
+    background-color: #485123;
+    color: #eadd46;
+}
+
+.check {
+    color: red;
+}
+
+#general {
+   
+
+    
+}
